@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "508517751293",
+    "project_id": "ic-norath-application",
+    "storage_bucket": "ic-norath-application.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508517751293:android:031d205950fc6b630d2194",
+        "android_client_info": {
+          "package_name": "com.example.ic_norath_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTCUU3hTysipIGjvNCiVHrTvCgvSySquU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
